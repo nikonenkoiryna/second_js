@@ -1,6 +1,6 @@
-# first_js
-This is my first Javascript program.
+# second_js
+This is my second Javascript program.
 
 # Run
-1. Click on index.html
-2. . Click on "Click me" button and see beautiful change of text in black div box.
+1. Click on login.html
+2. Interact with page and have fun! :)
